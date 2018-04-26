@@ -1,4 +1,7 @@
 /*
+ * *NOTE*
+ * This program should not be used with large inputs (larger than about 200,000).
+ *
  * Java program to determine all circular primes up to a given input
  * A circular prime is defined as a number such that all of its cycles are also prime
  * The definition of a cycle is also given below
