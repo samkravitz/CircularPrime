@@ -1,2 +1,4 @@
 # CircularPrime
-Java program that determines every circular prime up to a given input
+Java program that determines every circular prime up to a given input.
+
+# Definitions
