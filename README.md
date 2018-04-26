@@ -1,5 +1,5 @@
 # CircularPrime
-Java program that determines every circular prime up to a given input.
+Java program that computes every circular prime up to a given input.
 
 **Note: This program should not be used with large inputs (larger than around 200,000)**
 
